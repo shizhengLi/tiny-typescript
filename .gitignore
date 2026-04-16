@@ -1,2 +1,4 @@
 .vscode
 .specstory
+node_modules
+dist
